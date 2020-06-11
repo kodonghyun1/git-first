@@ -1,4 +1,4 @@
-![고양이](./images/%BB%F5%B3%A2%B0%AD%BE%C6%C1%F6)
+![민들래](./images/first)
 
 
 # 나의 소개
