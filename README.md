@@ -1,4 +1,4 @@
-![민들래](./images/first)
+![민들래](./images/first.jpg)
 
 
 # 나의 소개
