@@ -1,4 +1,4 @@
-![고양이](./C:\Users\kjr75\images/고양이.jpg)
+![고양이](./고동현\images/고양이.jpg)
 
 
 # 나의 소개
