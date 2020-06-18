@@ -1,4 +1,4 @@
-![고양이](./images/%BB%F5%B3%A2%B0%AD%BE%C6%C1%F66.jpg)
+![고양이](./images/14_be_cool212.jpg)
 
 
 # 나의 소개
